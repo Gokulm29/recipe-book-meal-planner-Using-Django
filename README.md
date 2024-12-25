@@ -1,4 +1,3 @@
-![Banner](documentation/banner.png)
 
 # Recipe Book and Meal Planner
 
